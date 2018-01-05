@@ -12,6 +12,10 @@ import itertools
 import copy
 import math
 
+#slight edit to test forking.
+#second edit.
+
+
 class Midi(object):
     #object that contains midi header data, a list of the tracks
     #contained within the midi and various lists required to create
